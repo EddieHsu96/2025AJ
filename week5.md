@@ -10,25 +10,36 @@
 ![image](https://github.com/user-attachments/assets/fe527899-c05d-40f1-b19d-6334810c6256)
 
 ## Prompt：「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情，但凶神惡煞，牙齒外露，充滿反差」
+
 ![image](https://github.com/user-attachments/assets/c868592b-6fff-441a-a228-052140f02691)
 
 ### 圖像類型：超級英雄漫畫
 
 實驗介紹：學習如何運用粗體線條、鮮豔色彩與動態構圖來傳達超級英雄的力量感。
 
-實作提示語：
+實作提示語：「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」
 
-「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」
-## 
+![image](https://github.com/user-attachments/assets/e0d930e2-c2f0-4e76-bc2d-17b55d8e5b3b)
+
+## Prompt：「一位超級英雄飛過城市，拿著電吉他，散播愛與快樂。粗體線條和鮮艷色彩，具有美國漫畫風格。」
+
+![image](https://github.com/user-attachments/assets/2ff3c2cb-b38e-477a-afa0-af7e7e24b33c)
+
 ## 所屬分類 2：基礎寫實風景系列
 
 ### 圖像類型：寫實自然風景
 
 實驗介紹：學習如何透過光影、環境細節與天氣描述來創造逼真的自然場景。
 
-實作提示語：
+實作提示語：「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」
 
-「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」
+![image](https://github.com/user-attachments/assets/e01506a8-cdbb-4da3-b0e8-dd06586be9f0)
+
+## Prompt：「正午的森林景象，陽光烘烤著樹梢，地面生物無處可逃，與青苔和落葉一起躲太陽。」
+
+![image](https://github.com/user-attachments/assets/bffbbedb-483f-4447-9e1c-27cf4eb50113)
+
+
 
 ### 圖像類型：現代城市夜景
 
