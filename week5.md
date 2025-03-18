@@ -13,7 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/c868592b-6fff-441a-a228-052140f02691)
 
-## SUM: 主要是表情與肢體的表達，加上細節與背景給人的氣氛。
+## SUM: 主要是表情與肢體的表達，加上細節與背景給人暗示般的氣氛。
 
 ### 圖像類型：超級英雄漫畫
 
@@ -26,6 +26,8 @@
 ## Prompt：「一位超級英雄飛過城市，拿著電吉他，散播愛與快樂。粗體線條和鮮艷色彩，具有美國漫畫風格。」
 
 ![image](https://github.com/user-attachments/assets/2ff3c2cb-b38e-477a-afa0-af7e7e24b33c)
+
+## SUM: AI 其實可以理解不同風格的要求，敘述時著重特點或特徵，相輔相成。
 
 ## 所屬分類 2：基礎寫實風景系列
 
@@ -41,7 +43,7 @@
 
 ![image](https://github.com/user-attachments/assets/bffbbedb-483f-4447-9e1c-27cf4eb50113)
 
-
+## SUM: 背景常常是一種被動解讀，比如上面兩張圖對比起來陽光就扮演完全不同的角色，帶來不同色調與光暈。
 
 ### 圖像類型：現代城市夜景
 
@@ -55,6 +57,7 @@
 
 ![image](https://github.com/user-attachments/assets/7e5278a0-d7f8-4782-a523-108da9fce1ea)
 
+## SUM: 相同場景但不同天氣，或是不同區域，光影的感受不同。下著大雨讓都會區多了一種急迫感。
 
 
 ## 所屬分類 3：印象派與表現主義
@@ -70,6 +73,8 @@
 
 ![image](https://github.com/user-attachments/assets/a1eb7db9-f9bc-49a9-9507-e79e3c327b0e)
 
+## SUM: 儘管改變色調，但AI還是忠於印象派著重的光影變化與水彩的調和感。
+
 
 ### 圖像類型：表現主義肖像
 
@@ -83,6 +88,7 @@
 
 ![image](https://github.com/user-attachments/assets/cb8a159d-4bf6-45fb-b94f-960aefe0644d)
 
+## SUM: 雖然只是改變表情與動作，但原圖充滿發散的能量與冥想的集中內斂還是有很大區別。
 
 ## 所屬分類 4：幾何與抽象藝術
 ### 圖像類型：幾何抽象設計
