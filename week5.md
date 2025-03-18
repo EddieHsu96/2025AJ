@@ -6,7 +6,8 @@
 實驗介紹：學習如何透過誇張的面部特徵與動態姿勢來創造生動有趣的卡通角色。
 
 實作提示語：「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」
-https://tse4.mm.bing.net/th?id=OIG2.GSmaWfYquXu.VTiOS.BF&pid=ImgGn
+
+ https://tse4.mm.bing.net/th?id=OIG2.GSmaWfYquXu.VTiOS.BF&pid=ImgGn
 
 ## 
 ### 圖像類型：超級英雄漫畫
