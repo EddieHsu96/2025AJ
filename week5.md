@@ -9,7 +9,9 @@
 
 ![image](https://github.com/user-attachments/assets/fe527899-c05d-40f1-b19d-6334810c6256)
 
-## 
+## Prompt：「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情，但凶神惡煞，牙齒外露，充滿反差」
+![image](https://github.com/user-attachments/assets/c868592b-6fff-441a-a228-052140f02691)
+
 ### 圖像類型：超級英雄漫畫
 
 實驗介紹：學習如何運用粗體線條、鮮豔色彩與動態構圖來傳達超級英雄的力量感。
