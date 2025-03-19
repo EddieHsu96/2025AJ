@@ -160,7 +160,7 @@
 
 ## Prompt：「一座島嶼不在海上，在彩虹上。島上河流是雲朵，山脈是糖果。畫面具收斂性不要太發散與虛構。」
 
-![image](https://github.com/user-attachments/assets/1e7a29b0-3e35-4540-b1e9-10f2e79a52f5)
+
 
 ## SUM: 我覺得要適時請AI提醒，或提醒AI，收斂太過發散與違反人類直覺的畫面。上述prompt內容有限，AI輸出似乎差不多。
 
@@ -174,7 +174,7 @@
 
 ## Prompt：「克蘇魯盤踞海岬，皮膚粗糙但光滑，向岸邊伸出觸手，吸盤似乎戰鬥力極高。」
 
-![image](https://github.com/user-attachments/assets/d8fe7ad2-9b77-4c17-976b-6c17ca0749f9)
+
 
 ## SUM: 細節越仔細越寫實，減少AI臆測鬼扯的幾率，讓AI主要修飾背景構圖等等，海洋與飛行生物質感觸感差非常多。
 
