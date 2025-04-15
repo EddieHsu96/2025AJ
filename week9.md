@@ -25,3 +25,4 @@
 
 # AI for Music
 
+SUNO實戰應用
