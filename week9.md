@@ -18,9 +18,10 @@
 這兩個詞來自於心理學中的「**情緒維度模型（Dimensional Model of Emotion）**」，用來量化描述一個人的情緒狀態。這個模型認為，**情緒不是離散的（像「高興」、「悲傷」），而是可以在連續空間中被定位**。
 
 我們可以用一張二維圖（如下）來表示：
+
 ![image](https://github.com/user-attachments/assets/cbb954f1-4264-4831-be5c-b93d14c26f2e)
 
-### 用於舒緩醫療與安寧療護
+### 用於音樂治療： 舒緩醫療與安寧療護
 
 # AI for Music
 
