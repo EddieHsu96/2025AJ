@@ -29,7 +29,7 @@ SUNO實戰應用
 
 ## Lab 1 Simple Create
 
-### prompt:大學生活充滿挑戰與努力的孤單，有了ai我的生活變成彩色的, 專業上有助手，生活上有陪伴，folk-pop, newmetal。
+### 大學生活充滿挑戰與努力的孤單，有了ai我的生活變成彩色的, 專業上有助手，生活上有陪伴，folk-pop, newmetal。
 
 ### https://suno.com/song/d6cc772b-b79d-4f23-961d-748152ea8884?sh=s2uSJovJZ9lTnCly
 ### https://suno.com/song/bba8cbfa-0f5b-447d-92f1-c1eb5f31dbe8?sh=cP82dwDGhsYodJty
@@ -39,7 +39,7 @@ SUNO實戰應用
 
 ## Lab 2 自訂模式創作
 
-### Prompt: 使用歌詞生成功能：在墨爾本租越野車一路開到大洋路，7天行程自由安排，藍天白雲分不清與海的界線，海岸的觀光路線與林道的小心翼翼，沿路美食氣氛與山中的靜謐。
+### 使用歌詞生成功能：在墨爾本租越野車一路開到大洋路，7天行程自由安排，藍天白雲分不清與海的界線，海岸的觀光路線與林道的小心翼翼，沿路美食氣氛與山中的靜謐。
 
 ### https://suno.com/song/49ca1c9d-abb2-4f2a-9d8f-4fe1331a3c81?sh=GlMntXAS3vP9dFaY
 ### https://suno.com/song/ed04a437-a3af-4262-838c-e7cda6337cd1?sh=1R9GwTwnxkQvcdpC
@@ -49,8 +49,8 @@ SUNO實戰應用
 
 ## Lab 3 ChatGPT 的歌詞生成
 
-### Prompt: 使用歌詞生成功能：在墨爾本租越野車一路開到大洋路，7天行程自由安排，藍天白雲分不清與海的界線，海岸的觀光路線與林道的小心翼翼，沿路美食氣氛與山中的靜謐。風格是lofi, hip hop, west cost rap.意象再自由無拘束一點，凸顯大島的遼闊與東方社會封閉的對比。
-### Prompt: 看起來太像沒出過國的鄉巴佬第一次去了吧。深一點不要這麼流行，come on it's hip hop。
+### 使用歌詞生成功能：在墨爾本租越野車一路開到大洋路，7天行程自由安排，藍天白雲分不清與海的界線，海岸的觀光路線與林道的小心翼翼，沿路美食氣氛與山中的靜謐。風格是lofi, hip hop, west cost rap.意象再自由無拘束一點，凸顯大島的遼闊與東方社會封閉的對比。
+### 看起來太像沒出過國的鄉巴佬第一次去了吧。深一點不要這麼流行，come on it's hip hop。
 
 ### 1. https://suno.com/song/64390d00-6918-4b7f-8d6a-31566039acaf?sh=cJv32qs5kNYbiLMq
 ### 2. https://suno.com/song/3531495a-3bf9-407d-95f0-7808d8cd7aff?sh=q6AjNnKsAchOpipR
@@ -59,14 +59,20 @@ SUNO實戰應用
 ### 由1-3 風格從lofi到越來越接近 slow hip hop，很明顯ChatGPT生成的文字更接近人類，音樂在風格上非常鮮明也能像旋鈕一樣調整比例。
 
 
-## Lab 4 
-### 
-### 
-### 
+## Lab 4 延長歌曲與結構調整
+
+### https://suno.com/song/cdc8f678-7be7-45a4-a36e-661b5204b11f?sh=2nixg6QA1zXZblOk
+### https://suno.com/song/7289d4f0-6ba7-4528-931d-6b906d04e556?sh=HRnGEE7ObRSy2eUr
+
+### 生成了part.2!! 從原本喊麥 Ad-Libs 到有完整的獨白前奏與嘆氣等元素，編曲更完整，不只是延長音樂本身，風格也更特定。
 
 
 
-## Lab 5
+## Lab 5 不同音樂風格與語言的創作
+
+###
+###
+###
 
 
 
