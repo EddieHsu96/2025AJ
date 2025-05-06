@@ -1,5 +1,5 @@
 # Lab 1. 影像復刻
-## 我要複製此圖片。請詳細描述此圖片的視覺，包括CoT，讓我練習下prompt與理解CoT的運作。產出prompt讓我可以用文字複製生成圖片。
+## Prompt: 我要複製此圖片。請詳細描述此圖片的視覺，包括CoT，讓我練習下prompt與理解CoT的運作。產出prompt讓我可以用文字複製生成圖片。
 
 
 ## 
@@ -15,6 +15,7 @@
 
 
 ## 4o:
+![image](https://github.com/user-attachments/assets/435f9644-8744-4bfe-981b-e255762c414b)
 
 ## o3: 
 ![image](https://github.com/user-attachments/assets/143c4def-782c-4557-830d-0e846896078b)
@@ -26,8 +27,11 @@
 
 
 
-## 提供原圖是關鍵因素，o3 加上 CoT 且逐步調整都比不上“言之有物”。
+## 顯然提供原圖是關鍵因素，o3 加上 CoT 且逐步調整都比不上“言之有物”。
 
 
 
 # Lab 2. AI 與行銷
+
+## 行銷並非單純的“銷”，更是價值的放大與附加。包括 Web 3.0 與未來 AI 趨勢，眼見會更為憑。就像 Elon Musk 說的 “群眾的看法最後會成為事實”。
+
