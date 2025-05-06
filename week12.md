@@ -35,3 +35,51 @@
 
 ## 行銷並非單純的“銷”，更是價值的放大與附加。包括 Web 3.0 與未來 AI 趨勢，眼見會更為憑。就像 Elon Musk 說的 “群眾的看法最後會成為事實”。
 
+## 自我介紹卡Prompt: 
+
+Base image: use the supplied photo of a snowboarder standing on a snowy slope as the full‑bleed background.
+Overall mood: crisp, confident, modern finance vibe; cool winter palette with high contrast white text boxes.
+Layout
+• Place a semi‑transparent charcoal overlay (⁠65 % opacity⁠) across the lower two‑thirds to ensure text legibility while preserving the scenery.
+• Keep the upper sky area clean for visual breathing space.
+Typography
+• Headline (top‑left, large, bold sans‑serif): “徐晨祐 ｜ Eddie Hsu”.
+• Sub‑headline (below headline, medium weight): “外匯與期貨交易員”.
+• Skill bullets (left‑aligned, small caps, 1 em spacing):
+  — 客製化交易參數
+  — 精準風控監測
+  — 資產管理模型
+  — 資料分析與視覺化
+• Experience line (italic, accent color #FF6F3F): “7 年交易經驗 + AI 工具 + 資料庫與系統化思維”.
+• Slogan (bottom‑right, bold condensed sans‑serif, #FFFFFF on subtle orange underline): “Trade What You See”.
+Design accents
+• Add a thin vertical bar in the board’s orange hue (#F75A44) running from top edge to just above the slogan, echoing the snowboard tip color.
+• Light snowfall particles drifting in foreground to reinforce action/freshness.
+Export
+• Resolution: 1080 × 1920 px (portrait story format).
+• Format: PNG, 300 dpi, transparent margins.
+
+
+## ChatGPT:
+![image](https://github.com/user-attachments/assets/14188521-274e-4a60-ad41-c1cfbae79d59)
+
+## Copilot:
+![image](https://github.com/user-attachments/assets/66d9a1de-c672-4812-9d5c-5a68a7844132)
+
+## 提供背景圖片但加上文字後圖片跟文字一起失真了xd 感覺資訊量對 Copilot來說有點龐大
+
+
+
+
+# Lab 3. 文案生成
+
+## 故事腳本設計：
+
+### Step 1：決定主題
+
+### Step 2：產生6格故事腳本，並繪製圖示
+
+### Step 3：”口播字幕”文字的生成
+
+##
+
