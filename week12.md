@@ -73,9 +73,7 @@ Export
 
 # Lab 3. 文案生成
 
-## 故事腳本設計:
-
-### Step 1：決定主題
+## ChatGPT:
 
 **Creating storyboard for short video**
 
@@ -165,10 +163,9 @@ The user wants a 6-9 panel story script in Chinese, inspired by *Slam Dunk* (灌
 
 拿起畫筆開始吧，讓讀者跟著主角一起從「討厭」走到「熱愛」！
 
-### Step 2：產生6格故事腳本，並繪製圖示
+## 使用高手 Prompt:
+
 
 ### Step 3：”口播字幕”文字的生成
-
-## 故事prompt(版權問題保密）
 
 
