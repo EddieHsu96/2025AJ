@@ -73,7 +73,9 @@ Export
 
 # Lab 3. 文案生成
 
-## 故事腳本設計：
+## 故事腳本設計:
+
+### Step 1：決定主題
 
 **Creating storyboard for short video**
 
@@ -162,9 +164,6 @@ The user wants a 6-9 panel story script in Chinese, inspired by *Slam Dunk* (灌
 4. **構圖呼應**：第 8 格複製第 1 格的相機角度與透視，僅改變主角姿態與表情，視覺上形成首尾呼應。
 
 拿起畫筆開始吧，讓讀者跟著主角一起從「討厭」走到「熱愛」！
-
-
-### Step 1：決定主題
 
 ### Step 2：產生6格故事腳本，並繪製圖示
 
