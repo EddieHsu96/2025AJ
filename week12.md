@@ -165,6 +165,16 @@ The user wants a 6-9 panel story script in Chinese, inspired by *Slam Dunk* (灌
 
 ## 使用高手 Prompt:
 
+| #     | English Prompt                                                                                                                                                                                                                                                         | 中文 Prompt                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **1** | **Scene 1 – “I Don’t Care”**  <br>Wide establishing shot in a high‑school gym. Protagonist slouches against the wall while classmates hustle. Bold manga speed‑lines exaggerate everyone *except* him, leaving him in dull colors. Caption: “Basketball?  Nah.”        | **場景一 –「無感」**  <br>高中體育館的廣角開場。 主角靠牆耍廢，同學們揮汗奔跑。 漫畫速度線誇張地突出其他人，唯獨他色調灰暗。 字幕：「籃球？  才不要。」 |
+| **2** | **Scene 2 – Painful Drills**  <br>Low‑angle triadic composition: coach, endless cones, protagonist at the tip. Deep focus on blistered hands; background echoes with dramatic squeaking soles. Inner‑monologue text hovers: “Why does this hurt more than heartbreak?” | **場景二 – 苦練之痛**  <br>低角度三角構圖：教練、排滿的訓練錐、最前端的主角。 景深強調磨破的手掌，背景球鞋聲尖銳。 內心旁白：「為什麼比失戀還痛？」    |
+| **3** | **Scene 3 – First Spark**  <br>Close‑up of sweat falling in slow motion onto the court, then a fast cut to the ball swishing the net. Lighting shifts from cold blue to warm orange. Teammate shouts (off‑screen): “Nice shot, rookie!”                                | **場景三 – 火花初現**  <br>慢動作特寫：汗珠墜落地板，快剪接到球穿網聲。 燈光由冷藍轉暖橘。 隊友（畫外）吼：「菜鳥，漂亮！」                |
+| **4** | **Scene 4 – War Zone**  <br>Cinematic handheld shot, depth‑of‑field toggling between rival defense and protagonist’s determined eyes. Crowd noise ducks as heartbeat FX rises. Overlay text: “Fight together, fall together.”                                          | **場景四 – 沙場征戰**  <br>電影感手持鏡頭，在對手防守與主角決心的雙眼間切換景深。 觀眾喧嘩聲漸弱，心跳音效升高。 文字浮現：「同生共死，一起戰！」     |
+| **5** | **Scene 5 – Victory Burst**  <br>Overhead shot: buzzer‑beater goes in—confetti freeze‑frame; teammates lift protagonist. Camera spin reveals scoreboard “WIN”. Superimposed comic kanji: “決!”                                                                          | **場景五 – 爆裂勝利**  <br>俯拍：讀秒絕殺入網，彩帶定格；隊友高舉主角。 鏡頭旋轉露出記分板「WIN」。 巨幅漫畫字：「決！」                |
+| **6** | **Scene 6 – Same Hall, New Heart**  <br>Return to opening wall angle, but now protagonist spins the ball on one finger, basked in golden sunset light. Color palette vibrant; subtle echo of Scene 1 composition. Final caption: “Turns out, I *love* this game.”      | **場景六 – 愛上籃球**  <br>回到起始牆邊視角，主角單指旋球，夕陽金光灑落。 色調飽和，呼應場景一構圖。 壓軸字幕：「原來，我超愛籃球。」           |
+
+
 
 ### Step 3：”口播字幕”文字的生成
 
