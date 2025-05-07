@@ -75,15 +75,6 @@ Export
 
 ## ChatGPT:
 
-**Creating storyboard for short video**
-
-The user wants a 6-9 panel story script in Chinese, inspired by *Slam Dunk* (灌籃高手). I should include a protagonist who disapproves of basketball at first, struggles through grueling training, and comes to appreciate the sport with the help of teammates. I'll make sure the final panel echoes the first or second, showing the change in feelings. I’ll provide a detailed description for each panel, including any key moments or text, while staying flexible in panel numbers to fit the user’s vision.
-
-
-以下是一份 8 格分鏡腳本（6–9 格內可自行增刪），用來致敬《灌籃高手》的成長弧線。每格均標出 **畫面構圖**、**情緒／動作**、以及可選的 **旁白／台詞**，方便你手繪或後續改編影片。第 8 格與第 1 格呼應 —— 場景幾乎相同，但主角心境已截然不同。
-
----
-
 ### ❶ 初遇 ‑「討厭籃球」
 
 * **畫面構圖**：放學後的體育館外廊道，夕陽側光拉長影子。主角（書包斜背）被彈出的籃球碰到腳尖，低頭皺眉。
@@ -209,6 +200,7 @@ The user wants a 6-9 panel story script in Chinese, inspired by *Slam Dunk* (灌
 原來，我這麼愛籃球啊。」
 
 
-# 有高手prompt之後，場景設計會少一些AI的杜撰跟太過大眾的場景，輸出口播字幕也更通順。
+# 有高手prompt之後，場景設計會少一些AI的杜撰跟太過大眾的場景，輸出口播字幕也更通順，整體質感有提升。
+
 
 
