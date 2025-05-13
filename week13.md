@@ -9,5 +9,7 @@
 
 ## ![image](https://github.com/user-attachments/assets/692138fd-e132-4296-a202-439f6af7c256)
 
-## LAB 2 顏色比較接近素描風格，吃掉了一些彩色細節，但很明顯
+### 在 LAB 2 顏色比較接近素描風格，吃掉了一些彩色細節，但很明顯生成引擎有讀懂Prompt，沒有因為微調而失焦。不錯的網站。
+
+## LAB 3. 
 
