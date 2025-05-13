@@ -13,25 +13,31 @@
 
 ## LAB 3. Image Set
 
-## ![image](https://github.com/user-attachments/assets/5d225973-62b7-4c8d-ab61-2aeb3652ba16)
-## ![image](https://github.com/user-attachments/assets/994de41e-80c5-4d2c-ad2d-b99815cc919c)
-## ![image](https://github.com/user-attachments/assets/1fd1f403-fce5-4ce0-bb82-74f7800a996f)
-## ![image](https://github.com/user-attachments/assets/383328af-2421-469e-825d-20f72a9e3eb1)
-## ![image](https://github.com/user-attachments/assets/0f299498-7d8f-451d-94a2-38137722196b)
-## ![image](https://github.com/user-attachments/assets/f13f5df4-0cf1-4896-969c-245d7e8a8831)
+### ![image](https://github.com/user-attachments/assets/5d225973-62b7-4c8d-ab61-2aeb3652ba16)
+### ![image](https://github.com/user-attachments/assets/994de41e-80c5-4d2c-ad2d-b99815cc919c)
+### ![image](https://github.com/user-attachments/assets/1fd1f403-fce5-4ce0-bb82-74f7800a996f)
+### ![image](https://github.com/user-attachments/assets/383328af-2421-469e-825d-20f72a9e3eb1)
+### ![image](https://github.com/user-attachments/assets/0f299498-7d8f-451d-94a2-38137722196b)
+### ![image](https://github.com/user-attachments/assets/f13f5df4-0cf1-4896-969c-245d7e8a8831)
 
 ## LAB 4. Runway
 
-## 1. 靜態角色動態化
+### 1. 靜態角色動態化
 ### Prompt: A traditional Japanese carp streamer (koinobori) fluttering gently above the dark tile rooftops of old Kyoto townhouses. The rooftops are made of weathered black ceramic tiles, creating a strong contrast with the colorful koinobori. The camera slowly pulls upward and backward, revealing the warm glow of a golden sunset in the background. The sky shifts from orange to soft pink hues. The mood is nostalgic and poetic, evoking a peaceful spring evening in Japan. 5-second cinematic shot, natural lighting, shallow depth of field, slow camera movement.
 ### ![image](https://github.com/user-attachments/assets/0da9f132-ceba-47af-9671-601023c8aa93)
 
-## Output: ![image](https://github.com/user-attachments/assets/2f57bb04-0fe5-412a-b1ab-926565296d88)
+## Output: https://app.runwayml.com/creation/06dadfbc-a870-478f-8154-8e3f9d89ec0c
 
-
-## 2. 角色互動與敘事
-### Prompt: 
+### 2. 角色互動與敘事
+### Prompt: 球往角落的球員丟，角落球員驚喜地接過。
 
 ### ![image](https://github.com/user-attachments/assets/301c23b0-b3fb-44a1-a48a-24c72bb1dcab)
+
+## Output: https://app.runwayml.com/creation/cb3707a7-63bc-4897-beb0-b7cdf7c3e465
+
+
+
+
+
 
 
