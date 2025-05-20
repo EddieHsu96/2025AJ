@@ -40,6 +40,9 @@
 
 ## LAB 5. 我的創作：
 
+## https://youtube.com/shorts/_cEfI9Prpk4
+## 質感太像 Flash 動畫了，用Shorts 的形式上傳。
+
 
 
 
